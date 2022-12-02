@@ -1,2 +1,3 @@
 # Input_voltage_follower!
-[image](https://user-images.githubusercontent.com/103216308/205381404-0b97622f-1fe6-4974-8fdf-fc34ee8e5107.png)
+![image](https://user-images.githubusercontent.com/103216308/205381438-e834bf38-9326-47a4-b3a8-a9c198a5032f.png)
+
